@@ -10,7 +10,7 @@
 <body>
   <header class="topbar">
     <div><span class="eyebrow">ECO-TERRA MAQUILISHUAT · CLUSTER I</span><h1>Mapa de señalización vial</h1><p>Seguimiento comunitario de señales de ALTO</p></div>
-    <div class="top-actions"><span id="modeIndicator" class="tag">Consulta pública</span><button id="adminToggle" class="btn outline">Preparar edición</button></div>
+    <div class="top-actions"><span id="modeIndicator" class="tag">Consulta pública</span></div>
   </header>
   <main>
     <section class="stats" aria-label="Resumen del avance">
@@ -28,14 +28,6 @@
         <p class="legend"><span class="dot pending"></span> Pendiente <span class="dot working"></span> En proceso <span class="dot done"></span> Instalada</p>
         <div class="divider"></div>
         <div id="selection" class="selection"><h2>Selecciona una señal</h2><p>Toca cualquier marcador en el mapa para consultar su información.</p></div>
-        <section id="editorTools" class="editor-tools hidden">
-          <div class="divider"></div><h2>Herramientas de edición</h2><p>Los cambios se preparan localmente; no se publican hasta reemplazar <code>senales.json</code> en GitHub.</p>
-          <button id="addToggle" class="btn primary full">+ Añadir señal en el mapa</button>
-          <button id="cancelAdd" class="btn outline full hidden">Cancelar colocación</button>
-          <button id="download" class="btn outline full">Descargar JSON actualizado</button>
-          <label for="upload" class="file-label">Importar archivo JSON</label><input id="upload" type="file" accept="application/json,.json" />
-          <p id="dirtyWarning" class="warning hidden">Hay cambios sin exportar. Descarga el JSON para conservarlos.</p>
-        </section>
       </aside>
       <section class="map-panel" aria-label="Mapa de la residencial">
         <div class="map-head"><div><strong>Plano de la residencial</strong><small>117 ubicaciones iniciales identificadas • 70 polígonos</small></div><div class="zoom-actions"><button id="zoomOut" title="Alejar" aria-label="Alejar">−</button><button id="reset" title="Restablecer vista" aria-label="Restablecer vista">⌖</button><button id="zoomIn" title="Acercar" aria-label="Acercar">+</button></div></div>
