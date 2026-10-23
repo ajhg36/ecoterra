@@ -1,0 +1,1060 @@
+{
+  "version": 1,
+  "proyecto": "Eco-Terra Maquilishuat - Cluster I",
+  "actualizado": "2026-10-22",
+  "senales": [
+    {
+      "id": "ALTO-001",
+      "x": 51.2781,
+      "y": 19.8235,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-002",
+      "x": 59.7787,
+      "y": 22.1731,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-003",
+      "x": 62.5913,
+      "y": 22.6002,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-004",
+      "x": 72.7794,
+      "y": 22.7064,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-005",
+      "x": 27.2144,
+      "y": 26.1275,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-006",
+      "x": 50.2782,
+      "y": 24.2033,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-007",
+      "x": 58.6537,
+      "y": 26.5529,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-008",
+      "x": 19.3389,
+      "y": 28.1576,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-009",
+      "x": 28.2145,
+      "y": 29.8663,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-010",
+      "x": 35.5274,
+      "y": 27.6225,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-011",
+      "x": 48.3407,
+      "y": 30.506,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-012",
+      "x": 49.5907,
+      "y": 29.1172,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-013",
+      "x": 71.6545,
+      "y": 30.0773,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-014",
+      "x": 22.5892,
+      "y": 31.8963,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-015",
+      "x": 25.2144,
+      "y": 32.3234,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-016",
+      "x": 28.027,
+      "y": 32.5369,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-017",
+      "x": 30.7772,
+      "y": 33.1776,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-018",
+      "x": 33.4024,
+      "y": 33.8184,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-019",
+      "x": 36.215,
+      "y": 34.0319,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-020",
+      "x": 36.59,
+      "y": 31.0408,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-021",
+      "x": 48.4658,
+      "y": 34.0312,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-022",
+      "x": 58.4038,
+      "y": 31.4668,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-023",
+      "x": 75.9048,
+      "y": 31.9999,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-024",
+      "x": 18.9641,
+      "y": 35.7421,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-025",
+      "x": 21.2142,
+      "y": 37.7716,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-026",
+      "x": 39.0902,
+      "y": 34.6727,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-027",
+      "x": 41.7779,
+      "y": 34.993,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-028",
+      "x": 49.3409,
+      "y": 37.3426,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-029",
+      "x": 52.1535,
+      "y": 37.5561,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-030",
+      "x": 54.9662,
+      "y": 37.5559,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-031",
+      "x": 58.5914,
+      "y": 34.4578,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-032",
+      "x": 61.2165,
+      "y": 34.885,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-033",
+      "x": 62.2166,
+      "y": 37.876,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-034",
+      "x": 64.0917,
+      "y": 34.7246,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-035",
+      "x": 66.0918,
+      "y": 34.4574,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-036",
+      "x": 69.092,
+      "y": 34.8845,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-037",
+      "x": 76.4049,
+      "y": 35.4182,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-038",
+      "x": 54.9038,
+      "y": 41.4016,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-039",
+      "x": 64.9043,
+      "y": 38.4099,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-040",
+      "x": 67.592,
+      "y": 38.837,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-041",
+      "x": 69.8421,
+      "y": 38.4096,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-042",
+      "x": 61.0917,
+      "y": 43.5377,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-043",
+      "x": 70.2172,
+      "y": 42.1484,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-044",
+      "x": 75.8426,
+      "y": 44.2845,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-045",
+      "x": 19.4644,
+      "y": 49.2018,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-046",
+      "x": 20.902,
+      "y": 49.0949,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-047",
+      "x": 54.8414,
+      "y": 45.995,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-048",
+      "x": 69.9048,
+      "y": 46.8486,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-049",
+      "x": 76.2802,
+      "y": 49.3052,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-050",
+      "x": 23.9646,
+      "y": 49.4152,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-051",
+      "x": 26.8398,
+      "y": 49.6287,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-052",
+      "x": 27.7149,
+      "y": 51.7651,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-053",
+      "x": 29.59,
+      "y": 49.8421,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-054",
+      "x": 30.3401,
+      "y": 51.7649,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-055",
+      "x": 32.1526,
+      "y": 49.9488,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-056",
+      "x": 33.4027,
+      "y": 51.8715,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-057",
+      "x": 35.0903,
+      "y": 50.0554,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-058",
+      "x": 36.0904,
+      "y": 52.1918,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-059",
+      "x": 37.8405,
+      "y": 50.1621,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-060",
+      "x": 40.7156,
+      "y": 49.9483,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-061",
+      "x": 41.5282,
+      "y": 52.1915,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-062",
+      "x": 47.7786,
+      "y": 50.3751,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-063",
+      "x": 49.0912,
+      "y": 52.6184,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-064",
+      "x": 50.9037,
+      "y": 50.5886,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-065",
+      "x": 52.0914,
+      "y": 52.8318,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-066",
+      "x": 53.6539,
+      "y": 50.8021,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-067",
+      "x": 60.9668,
+      "y": 51.0153,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-068",
+      "x": 63.842,
+      "y": 51.3356,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-069",
+      "x": 67.7172,
+      "y": 51.7626,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-070",
+      "x": 70.0299,
+      "y": 51.8693,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-071",
+      "x": 20.0895,
+      "y": 54.4361,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-072",
+      "x": 26.4649,
+      "y": 56.3585,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-073",
+      "x": 35.9655,
+      "y": 55.3966,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-074",
+      "x": 54.7791,
+      "y": 55.9295,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-075",
+      "x": 62.0295,
+      "y": 53.579,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-076",
+      "x": 64.8421,
+      "y": 53.6856,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-077",
+      "x": 65.9047,
+      "y": 53.3651,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-078",
+      "x": 77.0928,
+      "y": 54.4327,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-079",
+      "x": 26.4025,
+      "y": 59.8837,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-080",
+      "x": 29.2777,
+      "y": 60.0972,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-081",
+      "x": 40.4033,
+      "y": 57.1055,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-082",
+      "x": 47.7162,
+      "y": 57.4255,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-083",
+      "x": 60.842,
+      "y": 58.1725,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-084",
+      "x": 70.905,
+      "y": 56.89,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-085",
+      "x": 77.7805,
+      "y": 58.9192,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-086",
+      "x": 19.0896,
+      "y": 62.7684,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-087",
+      "x": 27.5901,
+      "y": 63.0883,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-088",
+      "x": 34.903,
+      "y": 60.5241,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-089",
+      "x": 35.8406,
+      "y": 63.7288,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-090",
+      "x": 40.5283,
+      "y": 60.7374,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-091",
+      "x": 41.5285,
+      "y": 63.6216,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-092",
+      "x": 47.6538,
+      "y": 61.0575,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-093",
+      "x": 50.6539,
+      "y": 61.2709,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-094",
+      "x": 53.6541,
+      "y": 61.2708,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-095",
+      "x": 64.8423,
+      "y": 61.5906,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-096",
+      "x": 70.7801,
+      "y": 61.8038,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-097",
+      "x": 26.4026,
+      "y": 66.5067,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-098",
+      "x": 34.7781,
+      "y": 66.6131,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-099",
+      "x": 40.2785,
+      "y": 66.9332,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-100",
+      "x": 47.5914,
+      "y": 67.4669,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-101",
+      "x": 48.9664,
+      "y": 64.3689,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-102",
+      "x": 60.2796,
+      "y": 65.2228,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-103",
+      "x": 63.0297,
+      "y": 65.009,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-104",
+      "x": 65.6549,
+      "y": 65.3293,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-105",
+      "x": 71.3427,
+      "y": 65.0085,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-106",
+      "x": 80.6558,
+      "y": 65.0079,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-107",
+      "x": 58.9671,
+      "y": 70.2436,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-108",
+      "x": 71.5928,
+      "y": 68.1064,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-109",
+      "x": 80.7184,
+      "y": 70.5627,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-110",
+      "x": 61.8423,
+      "y": 71.8458,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-111",
+      "x": 71.4679,
+      "y": 72.5929,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-112",
+      "x": 74.1556,
+      "y": 74.9429,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-113",
+      "x": 81.531,
+      "y": 75.4766,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-114",
+      "x": 73.0306,
+      "y": 79.6432,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-115",
+      "x": 75.7183,
+      "y": 81.459,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-116",
+      "x": 81.0937,
+      "y": 83.8088,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    },
+    {
+      "id": "ALTO-117",
+      "x": 83.8438,
+      "y": 83.1677,
+      "estado": "pendiente",
+      "poligono": null,
+      "fechaInstalacion": null,
+      "observaciones": ""
+    }
+  ]
+}
